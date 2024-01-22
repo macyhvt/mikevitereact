@@ -10,24 +10,28 @@ function Foreground() {
             'filesize':"1.5mb",
             'close': true,
             'tag':{isOpen:true,tagTitle:"Download Now", tagColor:"green"},
+            'link':"https://google.com",
         },
         {
             'desc':'This is dummy data2',
             'filesize':"3.5mb",
             'close': false,
             'tag':{isOpen:true,tagTitle:"Upload", tagColor:"blue"},
+            'link':"https://google.com",
         },
         {
             'desc':'This is dummy data3',
             'filesize':"4.5mb",
             'close': true,
             'tag':{isOpen:true,tagTitle:"Download Now", tagColor:"green"},
+            'link':"https://google.com",
         },
         {
             'desc':'This is dummy data4',
             'filesize':"4.5mb",
             'close': true,
             'tag':{isOpen:true,tagTitle:"Download Now", tagColor:"green"},
+            'link':"https://google.com",
         },
     ]
 

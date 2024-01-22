@@ -33,7 +33,7 @@ function Card({ data, reference }) {
 {
                 data.tag.isOpen && (
                     <div className={`tag w-full py-4 bg-${data.tag.tagColor}-600 flex items-center justify-center`}>
-                    <h3 className='text-sm'>{data.tag.tagTitle}</h3>
+                    <h3 className='text-sm'><a target="_blank" href={`${data.link}`}>{data.tag.tagTitle}</a></h3>
                 </div>
                 )
             }
