@@ -23,6 +23,12 @@ function Foreground() {
             'close': true,
             'tag':{isOpen:true,tagTitle:"Download Now", tagColor:"green"},
         },
+        {
+            'desc':'This is dummy data4',
+            'filesize':"4.5mb",
+            'close': true,
+            'tag':{isOpen:true,tagTitle:"Download Now", tagColor:"green"},
+        },
     ]
 
     
